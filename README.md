@@ -1,24 +1,5 @@
-# weather
+# weatherapp
+This is an app that uses the https://www.weatherapi.com/ API. The project has been made with Vuejs and Tailwind. 
 
-## Project setup
-```
-npm install
-```
+You can visit it in  https://weatherbyedugomsags.web.app
 
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
-
-### Compiles and minifies for production
-```
-npm run build
-```
-
-### Lints and fixes files
-```
-npm run lint
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
